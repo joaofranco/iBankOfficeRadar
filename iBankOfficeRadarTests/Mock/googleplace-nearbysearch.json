@@ -1,0 +1,837 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCIQEAANtXBG4_vOMGOJ7FaCU8Nfh2O5yZd_WXkdsOWaV44ohUZWicmmFe8zAfiKee2u4iiNnsmY2p7tmH9pHim-GxuQvkmpRViLV5pVLiYGO_H-81kSbRRLPMtKbnPifGWx1JrIWS_AzGM_0VTykf_CPfVTiv6N_nGN0sc0WrQ-uc42LUXBzGyHlbs7sWBCu5rACuA3deGj5T8-Wp39i0YFP7jydssa8NMdmVt8oWul9Lu3-FyudkZO6K0DDMGwqZRqLSPIltT3jSzYhL8n7pL01wFSw1f_H9YqvoVGOApvnbnIn0nvUtgGOUFjr2OVNMoyYbwyFNDXwmUU7jAX6MkWGJ8kTFWXCaoogrBFGN5BZpivUXk2-4L_5PUwRd_FDYPFRxN4VaZNISLK6ajfukEevKQJ4SEG8KmspV9EsXOuqjsn_WFIcaFMmOM9xI1AIXunMcWP45dyqKrph8",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5548138,
+               "lng" : -46.6613025
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.55345702010728,
+                  "lng" : -46.66008527010727
+               },
+               "southwest" : {
+                  "lat" : -23.55615667989272,
+                  "lng" : -46.66278492989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "6b17422f05732ee5ab70a6f2ebb42bc66349c33c",
+         "name" : "Agência Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2432,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114790511849106486411\"\u003eArquiteto Boina\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARIdIAxmvvbkKD1Q5MGiB4igL9bcJsSxYyWsTo6Q0PWaAvpZ3X-kv4HixhPXthuAezD1K90CCAmwKtkkLzmmCjPJVmSLcK-5xJJGJ4lVza-jAdXpEx8z_wjA3_CqtSW1oEhAmpcSoZVnXh2P7aVoAeigPGhTFTn1deK81v_P3Z6fqflOWL8Tk7g",
+               "width" : 4320
+            }
+         ],
+         "place_id" : "ChIJex_ihC1YzpQRVD3Co547Umc",
+         "plus_code" : {
+            "compound_code" : "C8WQ+3F Consolação, São Paulo - SP",
+            "global_code" : "588MC8WQ+3F"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJex_ihC1YzpQRVD3Co547Umc",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "R. da Consolação, 2279 - Consolação, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5656346,
+               "lng" : -46.66782629999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.56422942010727,
+                  "lng" : -46.66653787010728
+               },
+               "southwest" : {
+                  "lat" : -23.56692907989272,
+                  "lng" : -46.66923752989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "3c9f89096e60769403bc3d5f55bc04bd6f93a7f5",
+         "name" : "Agência Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106624958862010015853\"\u003eSimon Foakes\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApcjf57X00U_r0WtfiAdIi9QJo98RtGjuvtBup8YSc1tBSRerGxwU_LlXagCBGa1Ktx5g3SPn_QheHGriZCdWOtSmTXbW9C5vpMyEYoNHzoo8RVilH15OtZXcLXvioZx9EhCMZZweNZ-KfH16HACmF4dHGhSoQrj4IDPKZSal4Y4tBW5FV-xDog",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJAQCsjNZZzpQRgjBy0pRq7sg",
+         "plus_code" : {
+            "compound_code" : "C8MJ+PV Cerqueira César - Jardim Paulista, São Paulo - SP",
+            "global_code" : "588MC8MJ+PV"
+         },
+         "rating" : 4,
+         "reference" : "ChIJAQCsjNZZzpQRgjBy0pRq7sg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "R. Augusta, 2857 - Cerqueira César, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5621661,
+               "lng" : -46.6628905
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.56089497010728,
+                  "lng" : -46.66145017010727
+               },
+               "southwest" : {
+                  "lat" : -23.56359462989272,
+                  "lng" : -46.66414982989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "17f842053a19c87452fc688c1319713ce1131e8b",
+         "name" : "Agência Itaú Personnalité",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116741289782464391080\"\u003eMaurício Pompéia Fraga Filho\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYPMcDvAsW-BCCYAWY_draNywqigOzwuMurHkBMlasPBH4fCbhXuD5skhQRW9DwMwaFojzfKjYLLKo1VTQjJEkKJVUlX-SxkLZlU9Q6sEjmYdOl2Io_wlfK_FU6qbrrCGEhDd3UohgQ6aWAZdwYX5aRM_GhTSZ-mOUTRpFfXIPCHQIDzvZywttA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJw4bnLtJZzpQR4i5jp4VUyZY",
+         "plus_code" : {
+            "compound_code" : "C8QP+4R Cerqueira César - Jardim Paulista, São Paulo - SP",
+            "global_code" : "588MC8QP+4R"
+         },
+         "rating" : 4,
+         "reference" : "ChIJw4bnLtJZzpQR4i5jp4VUyZY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "R. Padre João Manuel, 498 - Cerqueira César, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5613209,
+               "lng" : -46.6646463
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.55989157010728,
+                  "lng" : -46.66321547010729
+               },
+               "southwest" : {
+                  "lat" : -23.56259122989272,
+                  "lng" : -46.66591512989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "02bb8005fbb6c7e2e8bfc88c9b722b1422fda1c6",
+         "name" : "Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110409978463136881128\"\u003eVitor Santos\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbf6PpXp6uIjgrORWkmpebBTZ89mwokQ3dSnjm8H10mqtUzSuoA3C92tlIMXQOGcA11WO6TeLOeSrdXx36Gh8qVJQjhYvB06gBSa0xoYAiq9colR2Luletwc_6xsCOJCrEhDezGXireSHIkF3crnYppjzGhQXiXa48W9dhWA85oTf8BH5TpoDGQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJl-v9odNZzpQRQNT6uRg8UtI",
+         "plus_code" : {
+            "compound_code" : "C8QP+F4 Jardim Paulista, São Paulo - SP",
+            "global_code" : "588MC8QP+F4"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJl-v9odNZzpQRQNT6uRg8UtI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Alameda Franca, 1203 - Jardim Paulista, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5457661,
+               "lng" : -46.682135
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.54435872010728,
+                  "lng" : -46.68069332010728
+               },
+               "southwest" : {
+                  "lat" : -23.54705837989272,
+                  "lng" : -46.68339297989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "5b7df847bc41e7d449b21cb6de3d93537ce5942f",
+         "name" : "Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ4Uoi8exXzpQRKyxeAysPUpg",
+         "plus_code" : {
+            "compound_code" : "F839+M4 Sumaré - Perdizes, São Paulo - SP",
+            "global_code" : "588MF839+M4"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ4Uoi8exXzpQRKyxeAysPUpg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Av. Dr. Arnaldo, 2197 - Sumaré, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5573528,
+               "lng" : -46.6604264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.55613047010728,
+                  "lng" : -46.65920937010729
+               },
+               "southwest" : {
+                  "lat" : -23.55883012989272,
+                  "lng" : -46.66190902989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "64ea5007d902216933efe184260f4276dabf62b9",
+         "name" : "Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114633030798463560483\"\u003eMurillo Paschoal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYXUt8YRyPUWCmMBajDqRhYWQCcjKZ_w-Qb5Ft9Gh_6o2l2XqKqSo54sABddLjZlkLmTYTCD4Xr4434qogkjDtr7p_GYuCJarkN5w8PiWOJD7Bum55olr_czbWXHs0CE5EhD92wWaRoZZQfqNCJCi6KNKGhRoBdh6WFl9zPRyng1T1wdbhtVvlQ",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJy4v_U81ZzpQRqKtnCldCJT4",
+         "plus_code" : {
+            "compound_code" : "C8VQ+3R Bela Vista, São Paulo - SP",
+            "global_code" : "588MC8VQ+3R"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJy4v_U81ZzpQRqKtnCldCJT4",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Av. Paulista, 2212 - Bela Vista, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5654333,
+               "lng" : -46.6667886
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.56398332010728,
+                  "lng" : -46.66533442010728
+               },
+               "southwest" : {
+                  "lat" : -23.56668297989272,
+                  "lng" : -46.66803407989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "3ebc4206361442526fa00cf2eb251327d1c537e6",
+         "name" : "Itaú Personnalité",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJgZ9Mx9ZZzpQR5lqq7FkSy6o",
+         "plus_code" : {
+            "compound_code" : "C8MM+R7 Cerqueira César - Jardim Paulista, São Paulo - SP",
+            "global_code" : "588MC8MM+R7"
+         },
+         "rating" : 1.5,
+         "reference" : "ChIJgZ9Mx9ZZzpQR5lqq7FkSy6o",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Rua Oscar Freire, 553 - e 561 - Cerqueira César, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5645764,
+               "lng" : -46.67906
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.56309182010728,
+                  "lng" : -46.67768937010728
+               },
+               "southwest" : {
+                  "lat" : -23.56579147989272,
+                  "lng" : -46.68038902989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "ff026260d2a49894ac871ea41326eda4b0fd0c9d",
+         "name" : "Agência Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJAQDAFHhXzpQRzzqatRapnPU",
+         "plus_code" : {
+            "compound_code" : "C8PC+59 Pinheiros, São Paulo - SP",
+            "global_code" : "588MC8PC+59"
+         },
+         "rating" : 2,
+         "reference" : "ChIJAQDAFHhXzpQRzzqatRapnPU",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "R. dos Pinheiros, 57 - Pinheiros, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5637139,
+               "lng" : -46.6658417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.56231412010728,
+                  "lng" : -46.66454912010727
+               },
+               "southwest" : {
+                  "lat" : -23.56501377989272,
+                  "lng" : -46.66724877989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "c0b01f8cb7832980a60eed691281b0c0d5a751e9",
+         "name" : "Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110409978463136881128\"\u003eVitor Santos\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7jI6XOj9_JjPI8rwQmk2OTNaP-sFSLI31OWUIW3l1tkYpPOASJzL1vNt_SQ5hsbGKl0ovSo4FrBNGC2O5yDkdcYeFIOfRyorjXfKQCsxz2y0Y0DzMnbG4bPMzL0-f-QZEhC5hB8ahb-piSihfNEdPysTGhRxMXRJH_Dd1NdizOfz1PB-cZKioA",
+               "width" : 3022
+            }
+         ],
+         "place_id" : "ChIJL56fAdRZzpQRNDDPfC41Wwg",
+         "plus_code" : {
+            "compound_code" : "C8PM+GM São Paulo",
+            "global_code" : "588MC8PM+GM"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJL56fAdRZzpQRNDDPfC41Wwg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "R. Augusta, 2575 - Jardim Paulista, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5689901,
+               "lng" : -46.6916182
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.56769667010728,
+                  "lng" : -46.69037722010728
+               },
+               "southwest" : {
+                  "lat" : -23.57039632989272,
+                  "lng" : -46.69307687989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "469777b0a4f03e2b9f89e2bcec5674916c706017",
+         "name" : "Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112107678549005619827\"\u003eERIK arlington\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAs7Fd0mx54mGRzz-gGUf1OTAo8BbRjAVW6z2loYXmim5TAiA5Gx5hJG4mqdyTDHiLfxjx0v0tdo0-0gwRiimBWyXTOCCRjLQLmuwQCAXw7FCiu-wZuxWl_IT7rodGWQVqEhB17l2KsgI6vtATsWq6WBcAGhTtUkpP3XvvHamT23J5vcIkEgEAgg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJX8XOfgpXzpQRUQ_0_mU3Bkg",
+         "plus_code" : {
+            "compound_code" : "C8J5+C9 Jardim Paulistano - Pinheiros, São Paulo - SP",
+            "global_code" : "588MC8J5+C9"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJX8XOfgpXzpQRUQ_0_mU3Bkg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Av. Brg. Faria Lima, 1309 - Jardim Paulistano, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5658164,
+               "lng" : -46.67022499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.56440397010728,
+                  "lng" : -46.66881417010728
+               },
+               "southwest" : {
+                  "lat" : -23.56710362989272,
+                  "lng" : -46.67151382989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "e35554ee030d3afaaee4bf6602d3a5ff7f73d9e6",
+         "name" : "Agência Itaú Personnalité",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102843005152027079738\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQY5DeREJlXmf19GYsfgDHazX-NImUed3LS63UR_WWPFcamzJoV6x9y9V9i8CGLVlim01x2hYRKqDbjsub940LivCTDF4nlkVZtK8tsnLfW_hPL8jGmC_NkVVPAxiQnYuEhAgbp4OaaDGlBI27j_IjNmDGhSPp1d9j3HSp_hQDmwWxDBBfr0ywQ",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJF1NBA9ZZzpQRsbBWgQGfN4s",
+         "plus_code" : {
+            "compound_code" : "C8MH+MW Jardim America, São Paulo - SP",
+            "global_code" : "588MC8MH+MW"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJF1NBA9ZZzpQRsbBWgQGfN4s",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "R ESTADOS UNIDOS 1721 - PARTE - Jardim America, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5576584,
+               "lng" : -46.6774188
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.55625672010727,
+                  "lng" : -46.67610612010728
+               },
+               "southwest" : {
+                  "lat" : -23.55895637989272,
+                  "lng" : -46.67880577989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "269127bda5f5568278a9f2c2d2435c47e850f1d7",
+         "name" : "Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107253117996245167786\"\u003eArilton\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVXy1TGppkhSej1XcwjmE0KicxUNu73GA2x4P5Xg_vE6I3aQbYJid8nT_6ul_xIdoNV-uYBpQiFY5wamY4HBFdeaxXju0wW1es8o05QriD6XKiE1Q5zs2KR1CRh2N1GwIEhA4vzPzSpJUVL9I3vbWIaS2GhSUcudA1tTcJzo6SzDAijDIYjaKvA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJF5KpZIRXzpQRtT1SpdNfoXM",
+         "plus_code" : {
+            "compound_code" : "C8RF+W2 Pinheiros, São Paulo - SP",
+            "global_code" : "588MC8RF+W2"
+         },
+         "rating" : 2.4,
+         "reference" : "ChIJF5KpZIRXzpQRtT1SpdNfoXM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "R. Teodoro Sampaio, 745 - Pinheiros, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5423896,
+               "lng" : -46.6722504
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.54112682010728,
+                  "lng" : -46.67077292010728
+               },
+               "southwest" : {
+                  "lat" : -23.54382647989272,
+                  "lng" : -46.67347257989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "46859f90fc4544715b9ae6dd60b1e026c67d2e68",
+         "name" : "Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJtX1MyYpXzpQRaFrzkVeIFY8",
+         "plus_code" : {
+            "compound_code" : "F85H+23 Perdizes, São Paulo - SP",
+            "global_code" : "588MF85H+23"
+         },
+         "rating" : 5,
+         "reference" : "ChIJtX1MyYpXzpQRaFrzkVeIFY8",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "R. Cardoso de Almeida, 1440 - Perdizes, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5553708,
+               "lng" : -46.6916417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.55408857010728,
+                  "lng" : -46.69040602010728
+               },
+               "southwest" : {
+                  "lat" : -23.55678822989272,
+                  "lng" : -46.69310567989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "6f2cba5bd637d6e4b9c8cfc9d03bb6c4796f042e",
+         "name" : "Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJDyHSsb1XzpQRAjaBulgEmms",
+         "plus_code" : {
+            "compound_code" : "C8V5+V8 Pinheiros, São Paulo - SP",
+            "global_code" : "588MC8V5+V8"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJDyHSsb1XzpQRAjaBulgEmms",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "R. Fradique Coutinho, 1410 - Pinheiros, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5595303,
+               "lng" : -46.6954559
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.55824842010728,
+                  "lng" : -46.69424542010727
+               },
+               "southwest" : {
+                  "lat" : -23.56094807989272,
+                  "lng" : -46.69694507989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "ec049b6e005a072b58e1816f7be4379c5676539f",
+         "name" : "Agência Itaú Personnalité",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102086313743162240824\"\u003eLucas Sandes\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnUPuqfbkyxLUKzypcpuexBmei08IZL7Eb_f_0-WnRIiYGHxWvlNfsUIy2XIdERTAwvGszChOrE_wdzrXc0GKv5lg_vOge42NPx4v9-rGN8rB3y0EwrtaPiI75yF2rh_OEhCPrrZwpftvPr3CTOJaP6j4GhSU_Q2LawHXGTA-1GWt0lP5agUXWQ",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJSUXcTLtXzpQRwbZiJeyeYQg",
+         "plus_code" : {
+            "compound_code" : "C8R3+5R Vila Madalena, São Paulo - SP",
+            "global_code" : "588MC8R3+5R"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJSUXcTLtXzpQRwbZiJeyeYQg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "R. dos Macunis, 32 - Vila Madalena, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5717994,
+               "lng" : -46.6698928
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.57037027010728,
+                  "lng" : -46.66845287010727
+               },
+               "southwest" : {
+                  "lat" : -23.57306992989272,
+                  "lng" : -46.67115252989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "07fbb8e6e03d441c4a2e99590d795a7e547b10b4",
+         "name" : "Agência Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1773,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109777023312937774222\"\u003ePRODSEVEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-ygwwPwZP5nmopIqg-rK1X6TVdYxWyKc9y6B4ZI-PSr3Z05PnAvDiO8ZwaQtzFjOqbulGMdb_NS2qwb4OvVBVGv4iYmr2Hdbo2-JitiO-QbmKawICPLDKEcvXILG120QEhCG16pKxcOFenMzOxsVABUHGhTcpo70yJRjTJL47JrrJnJZHwSKfQ",
+               "width" : 1773
+            }
+         ],
+         "place_id" : "ChIJeX0Z75BZzpQRDoKG4hHUCKg",
+         "plus_code" : {
+            "compound_code" : "C8HJ+72 Jardim Paulista, São Paulo - SP",
+            "global_code" : "588MC8HJ+72"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJeX0Z75BZzpQRDoKG4hHUCKg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Av. Brasil, 1151 - Jardim Paulista, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5726469,
+               "lng" : -46.6626507
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.57140127010728,
+                  "lng" : -46.66118962010729
+               },
+               "southwest" : {
+                  "lat" : -23.57410092989272,
+                  "lng" : -46.66388927989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "e24455bd5744ee35d30ba233b53f75b3c581c6a0",
+         "name" : "Agência Itaú Personnalité",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1773,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109777023312937774222\"\u003ePRODSEVEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6BWEti9KCchZzFwwQDctD0NkhEplgufJfdGEMSKZdXFFYl0OJ7tZR3jDLVkKwBpTaog-OjcEO9DMLqNvOWlnOLXd7xFSFQlHtkzZcRdX885EuS8K12Y-0ZzZa7PR7aV_EhD3EHJxgCDZLEuC4CpKNKTSGhSFctuQAN90dDZxws3s47VCjVo28w",
+               "width" : 1773
+            }
+         ],
+         "place_id" : "ChIJkfaGkNxZzpQRVHNFUb83C0Y",
+         "plus_code" : {
+            "compound_code" : "C8GP+WW Jardim Paulista, São Paulo - SP",
+            "global_code" : "588MC8GP+WW"
+         },
+         "rating" : 3,
+         "reference" : "ChIJkfaGkNxZzpQRVHNFUb83C0Y",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Rua Maestro Chiafarelli, 54 - Jardim Paulista, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5430568,
+               "lng" : -46.6651238
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.54166982010728,
+                  "lng" : -46.66387627010727
+               },
+               "southwest" : {
+                  "lat" : -23.54436947989272,
+                  "lng" : -46.66657592989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "faf24adeb1507b7c44ac6f06ce34c8e7bb50b195",
+         "name" : "Itaú",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ6SehUSFYzpQRzqb408r-I2E",
+         "plus_code" : {
+            "compound_code" : "F84M+QX Pacaembu, São Paulo - SP",
+            "global_code" : "588MF84M+QX"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ6SehUSFYzpQRzqb408r-I2E",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Praça Charles Miler, 12 - Pacaembu, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.570866,
+               "lng" : -46.6917278
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.56936107010728,
+                  "lng" : -46.69011377010727
+               },
+               "southwest" : {
+                  "lat" : -23.57206072989272,
+                  "lng" : -46.69281342989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "e6fdb96983c1fb4cba90fc4daf4ef77c0f7229d7",
+         "name" : "Itaú Personnalité",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1773,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109777023312937774222\"\u003ePRODSEVEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4M1Qg7vGWMOZ2j3hIUoZiJANzBd82chIMnMOElgg0IyXtZw4ookpLDv2FMlAJ8ilYXKHDoePiUcXTzkI5cEZ0G1WPEi7-Y9vWGlaO9GNJ88CXwg6e0liOP7EhikPPxn9EhAv7blKmaAhMPN_8Zuuxx4JGhT6cvjI1ifaOmIPW7zlS4tMRiayXA",
+               "width" : 1773
+            }
+         ],
+         "place_id" : "ChIJCbIiBQtXzpQR2KmxRw_eqbI",
+         "plus_code" : {
+            "compound_code" : "C8H5+M8 Jardim Paulistano - Pinheiros, São Paulo - SP",
+            "global_code" : "588MC8H5+M8"
+         },
+         "rating" : 3,
+         "reference" : "ChIJCbIiBQtXzpQR2KmxRw_eqbI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Av. Brg. Faria Lima, 1478 - Jardim Paulistano, São Paulo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5701235,
+               "lng" : -46.6800519
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.56874322010728,
+                  "lng" : -46.67875492010727
+               },
+               "southwest" : {
+                  "lat" : -23.57144287989272,
+                  "lng" : -46.68145457989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "b3da3b2f8fe366a00122c18f352edb580c771283",
+         "name" : "Agência Itaú Personnalité",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJk_c98ZtXzpQRbdyMoNKlhzY",
+         "plus_code" : {
+            "compound_code" : "C8H9+XX São Paulo, SP",
+            "global_code" : "588MC8H9+XX"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJk_c98ZtXzpQRbdyMoNKlhzY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Alameda Gabriel Monteiro da Silva, 1175 - JD AMERICA, São Paulo"
+      }
+   ],
+   "status" : "OK"
+}

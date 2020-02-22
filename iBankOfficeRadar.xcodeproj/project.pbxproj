@@ -1,0 +1,697 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		16D8DD7D24007F8F00131B41 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DD7C24007F8F00131B41 /* AppDelegate.swift */; };
+		16D8DD7F24007F8F00131B41 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DD7E24007F8F00131B41 /* SceneDelegate.swift */; };
+		16D8DD8124007F8F00131B41 /* MapListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DD8024007F8F00131B41 /* MapListView.swift */; };
+		16D8DD8324007F9300131B41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16D8DD8224007F9300131B41 /* Assets.xcassets */; };
+		16D8DD8624007F9300131B41 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16D8DD8524007F9300131B41 /* Preview Assets.xcassets */; };
+		16D8DD8924007F9300131B41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16D8DD8724007F9300131B41 /* LaunchScreen.storyboard */; };
+		16D8DD9424007F9400131B41 /* iBankOfficeRadarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DD9324007F9400131B41 /* iBankOfficeRadarTests.swift */; };
+		16D8DD9F24007F9400131B41 /* iBankOfficeRadarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DD9E24007F9400131B41 /* iBankOfficeRadarUITests.swift */; };
+		16D8DDAD24007FBD00131B41 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 16D8DDAC24007FBD00131B41 /* README.md */; };
+		16D8DDB02400824A00131B41 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 16D8DDAF2400824A00131B41 /* MapKit.framework */; };
+		16D8DDB22400887200131B41 /* BankOfficeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DDB12400887200131B41 /* BankOfficeDetailView.swift */; };
+		16D8DDB7240088E200131B41 /* MapListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DDB6240088E200131B41 /* MapListViewModel.swift */; };
+		16D8DDBC240091FF00131B41 /* NetworkUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DDBB240091FF00131B41 /* NetworkUtils.swift */; };
+		16D8DDBE2400920B00131B41 /* HttpClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DDBD2400920B00131B41 /* HttpClient.swift */; };
+		16D8DDC02400921E00131B41 /* GooglePlaceDefinition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DDBF2400921D00131B41 /* GooglePlaceDefinition.swift */; };
+		16D8DDC2240092A000131B41 /* GooglePlaceModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DDC1240092A000131B41 /* GooglePlaceModels.swift */; };
+		16D8DDC62400ADEF00131B41 /* GooglePlaceService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DDC52400ADEF00131B41 /* GooglePlaceService.swift */; };
+		16D8DDD12400B9C100131B41 /* URLSessionMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DDCB2400B37300131B41 /* URLSessionMock.swift */; };
+		16D8DDD22400BFAF00131B41 /* googleplace-nearbysearch.json in Resources */ = {isa = PBXBuildFile; fileRef = 16D8DDC72400B33700131B41 /* googleplace-nearbysearch.json */; };
+		16D8DDD42400C5CC00131B41 /* MapView.swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D8DDD32400C5CC00131B41 /* MapView.swift.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		16D8DD9024007F9400131B41 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16D8DD7124007F8F00131B41 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 16D8DD7824007F8F00131B41;
+			remoteInfo = iBankOfficeRadar;
+		};
+		16D8DD9B24007F9400131B41 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16D8DD7124007F8F00131B41 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 16D8DD7824007F8F00131B41;
+			remoteInfo = iBankOfficeRadar;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		16D8DD7924007F8F00131B41 /* iBankOfficeRadar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iBankOfficeRadar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		16D8DD7C24007F8F00131B41 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		16D8DD7E24007F8F00131B41 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		16D8DD8024007F8F00131B41 /* MapListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapListView.swift; sourceTree = "<group>"; };
+		16D8DD8224007F9300131B41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		16D8DD8524007F9300131B41 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		16D8DD8824007F9300131B41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		16D8DD8A24007F9300131B41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16D8DD8F24007F9400131B41 /* iBankOfficeRadarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iBankOfficeRadarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		16D8DD9324007F9400131B41 /* iBankOfficeRadarTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iBankOfficeRadarTests.swift; sourceTree = "<group>"; };
+		16D8DD9524007F9400131B41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16D8DD9A24007F9400131B41 /* iBankOfficeRadarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iBankOfficeRadarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		16D8DD9E24007F9400131B41 /* iBankOfficeRadarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iBankOfficeRadarUITests.swift; sourceTree = "<group>"; };
+		16D8DDA024007F9400131B41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16D8DDAC24007FBD00131B41 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		16D8DDAF2400824A00131B41 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		16D8DDB12400887200131B41 /* BankOfficeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankOfficeDetailView.swift; sourceTree = "<group>"; };
+		16D8DDB6240088E200131B41 /* MapListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapListViewModel.swift; sourceTree = "<group>"; };
+		16D8DDBB240091FF00131B41 /* NetworkUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkUtils.swift; sourceTree = "<group>"; };
+		16D8DDBD2400920B00131B41 /* HttpClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HttpClient.swift; sourceTree = "<group>"; };
+		16D8DDBF2400921D00131B41 /* GooglePlaceDefinition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GooglePlaceDefinition.swift; sourceTree = "<group>"; };
+		16D8DDC1240092A000131B41 /* GooglePlaceModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GooglePlaceModels.swift; sourceTree = "<group>"; };
+		16D8DDC52400ADEF00131B41 /* GooglePlaceService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GooglePlaceService.swift; sourceTree = "<group>"; };
+		16D8DDC72400B33700131B41 /* googleplace-nearbysearch.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "googleplace-nearbysearch.json"; sourceTree = "<group>"; };
+		16D8DDCB2400B37300131B41 /* URLSessionMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSessionMock.swift; sourceTree = "<group>"; };
+		16D8DDD32400C5CC00131B41 /* MapView.swift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		16D8DD7624007F8F00131B41 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				16D8DDB02400824A00131B41 /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		16D8DD8C24007F9400131B41 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		16D8DD9724007F9400131B41 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		16D8DD7024007F8F00131B41 = {
+			isa = PBXGroup;
+			children = (
+				16D8DDAC24007FBD00131B41 /* README.md */,
+				16D8DD7B24007F8F00131B41 /* iBankOfficeRadar */,
+				16D8DD9224007F9400131B41 /* iBankOfficeRadarTests */,
+				16D8DD9D24007F9400131B41 /* iBankOfficeRadarUITests */,
+				16D8DD7A24007F8F00131B41 /* Products */,
+				16D8DDAE2400824A00131B41 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		16D8DD7A24007F8F00131B41 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				16D8DD7924007F8F00131B41 /* iBankOfficeRadar.app */,
+				16D8DD8F24007F9400131B41 /* iBankOfficeRadarTests.xctest */,
+				16D8DD9A24007F9400131B41 /* iBankOfficeRadarUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		16D8DD7B24007F8F00131B41 /* iBankOfficeRadar */ = {
+			isa = PBXGroup;
+			children = (
+				16D8DDBA2400890900131B41 /* Network */,
+				16D8DDB52400888700131B41 /* View */,
+				16D8DDB42400888000131B41 /* ViewModel */,
+				16D8DDB32400887B00131B41 /* Model */,
+				16D8DD7C24007F8F00131B41 /* AppDelegate.swift */,
+				16D8DD7E24007F8F00131B41 /* SceneDelegate.swift */,
+				16D8DD8224007F9300131B41 /* Assets.xcassets */,
+				16D8DD8724007F9300131B41 /* LaunchScreen.storyboard */,
+				16D8DD8A24007F9300131B41 /* Info.plist */,
+				16D8DD8424007F9300131B41 /* Preview Content */,
+			);
+			path = iBankOfficeRadar;
+			sourceTree = "<group>";
+		};
+		16D8DD8424007F9300131B41 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				16D8DD8524007F9300131B41 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		16D8DD9224007F9400131B41 /* iBankOfficeRadarTests */ = {
+			isa = PBXGroup;
+			children = (
+				16D8DDCA2400B35300131B41 /* Mock */,
+				16D8DD9324007F9400131B41 /* iBankOfficeRadarTests.swift */,
+				16D8DD9524007F9400131B41 /* Info.plist */,
+			);
+			path = iBankOfficeRadarTests;
+			sourceTree = "<group>";
+		};
+		16D8DD9D24007F9400131B41 /* iBankOfficeRadarUITests */ = {
+			isa = PBXGroup;
+			children = (
+				16D8DD9E24007F9400131B41 /* iBankOfficeRadarUITests.swift */,
+				16D8DDA024007F9400131B41 /* Info.plist */,
+			);
+			path = iBankOfficeRadarUITests;
+			sourceTree = "<group>";
+		};
+		16D8DDAE2400824A00131B41 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				16D8DDAF2400824A00131B41 /* MapKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		16D8DDB32400887B00131B41 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				16D8DDC1240092A000131B41 /* GooglePlaceModels.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		16D8DDB42400888000131B41 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				16D8DDB6240088E200131B41 /* MapListViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		16D8DDB52400888700131B41 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				16D8DDD32400C5CC00131B41 /* MapView.swift.swift */,
+				16D8DD8024007F8F00131B41 /* MapListView.swift */,
+				16D8DDB12400887200131B41 /* BankOfficeDetailView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		16D8DDBA2400890900131B41 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				16D8DDC42400ADCF00131B41 /* GooglePlace */,
+				16D8DDBB240091FF00131B41 /* NetworkUtils.swift */,
+				16D8DDBD2400920B00131B41 /* HttpClient.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		16D8DDC42400ADCF00131B41 /* GooglePlace */ = {
+			isa = PBXGroup;
+			children = (
+				16D8DDBF2400921D00131B41 /* GooglePlaceDefinition.swift */,
+				16D8DDC52400ADEF00131B41 /* GooglePlaceService.swift */,
+			);
+			path = GooglePlace;
+			sourceTree = "<group>";
+		};
+		16D8DDCA2400B35300131B41 /* Mock */ = {
+			isa = PBXGroup;
+			children = (
+				16D8DDC72400B33700131B41 /* googleplace-nearbysearch.json */,
+				16D8DDCB2400B37300131B41 /* URLSessionMock.swift */,
+			);
+			path = Mock;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		16D8DD7824007F8F00131B41 /* iBankOfficeRadar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 16D8DDA324007F9400131B41 /* Build configuration list for PBXNativeTarget "iBankOfficeRadar" */;
+			buildPhases = (
+				16D8DD7524007F8F00131B41 /* Sources */,
+				16D8DD7624007F8F00131B41 /* Frameworks */,
+				16D8DD7724007F8F00131B41 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iBankOfficeRadar;
+			productName = iBankOfficeRadar;
+			productReference = 16D8DD7924007F8F00131B41 /* iBankOfficeRadar.app */;
+			productType = "com.apple.product-type.application";
+		};
+		16D8DD8E24007F9400131B41 /* iBankOfficeRadarTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 16D8DDA624007F9400131B41 /* Build configuration list for PBXNativeTarget "iBankOfficeRadarTests" */;
+			buildPhases = (
+				16D8DD8B24007F9400131B41 /* Sources */,
+				16D8DD8C24007F9400131B41 /* Frameworks */,
+				16D8DD8D24007F9400131B41 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				16D8DD9124007F9400131B41 /* PBXTargetDependency */,
+			);
+			name = iBankOfficeRadarTests;
+			productName = iBankOfficeRadarTests;
+			productReference = 16D8DD8F24007F9400131B41 /* iBankOfficeRadarTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		16D8DD9924007F9400131B41 /* iBankOfficeRadarUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 16D8DDA924007F9400131B41 /* Build configuration list for PBXNativeTarget "iBankOfficeRadarUITests" */;
+			buildPhases = (
+				16D8DD9624007F9400131B41 /* Sources */,
+				16D8DD9724007F9400131B41 /* Frameworks */,
+				16D8DD9824007F9400131B41 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				16D8DD9C24007F9400131B41 /* PBXTargetDependency */,
+			);
+			name = iBankOfficeRadarUITests;
+			productName = iBankOfficeRadarUITests;
+			productReference = 16D8DD9A24007F9400131B41 /* iBankOfficeRadarUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		16D8DD7124007F8F00131B41 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1130;
+				LastUpgradeCheck = 1130;
+				ORGANIZATIONNAME = "João Franco";
+				TargetAttributes = {
+					16D8DD7824007F8F00131B41 = {
+						CreatedOnToolsVersion = 11.3.1;
+					};
+					16D8DD8E24007F9400131B41 = {
+						CreatedOnToolsVersion = 11.3.1;
+						TestTargetID = 16D8DD7824007F8F00131B41;
+					};
+					16D8DD9924007F9400131B41 = {
+						CreatedOnToolsVersion = 11.3.1;
+						TestTargetID = 16D8DD7824007F8F00131B41;
+					};
+				};
+			};
+			buildConfigurationList = 16D8DD7424007F8F00131B41 /* Build configuration list for PBXProject "iBankOfficeRadar" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 16D8DD7024007F8F00131B41;
+			productRefGroup = 16D8DD7A24007F8F00131B41 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				16D8DD7824007F8F00131B41 /* iBankOfficeRadar */,
+				16D8DD8E24007F9400131B41 /* iBankOfficeRadarTests */,
+				16D8DD9924007F9400131B41 /* iBankOfficeRadarUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		16D8DD7724007F8F00131B41 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				16D8DDD22400BFAF00131B41 /* googleplace-nearbysearch.json in Resources */,
+				16D8DD8924007F9300131B41 /* LaunchScreen.storyboard in Resources */,
+				16D8DD8624007F9300131B41 /* Preview Assets.xcassets in Resources */,
+				16D8DDAD24007FBD00131B41 /* README.md in Resources */,
+				16D8DD8324007F9300131B41 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		16D8DD8D24007F9400131B41 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		16D8DD9824007F9400131B41 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		16D8DD7524007F8F00131B41 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				16D8DDD12400B9C100131B41 /* URLSessionMock.swift in Sources */,
+				16D8DD7D24007F8F00131B41 /* AppDelegate.swift in Sources */,
+				16D8DDC02400921E00131B41 /* GooglePlaceDefinition.swift in Sources */,
+				16D8DDB7240088E200131B41 /* MapListViewModel.swift in Sources */,
+				16D8DDBE2400920B00131B41 /* HttpClient.swift in Sources */,
+				16D8DDC2240092A000131B41 /* GooglePlaceModels.swift in Sources */,
+				16D8DDD42400C5CC00131B41 /* MapView.swift.swift in Sources */,
+				16D8DD7F24007F8F00131B41 /* SceneDelegate.swift in Sources */,
+				16D8DD8124007F8F00131B41 /* MapListView.swift in Sources */,
+				16D8DDB22400887200131B41 /* BankOfficeDetailView.swift in Sources */,
+				16D8DDBC240091FF00131B41 /* NetworkUtils.swift in Sources */,
+				16D8DDC62400ADEF00131B41 /* GooglePlaceService.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		16D8DD8B24007F9400131B41 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				16D8DD9424007F9400131B41 /* iBankOfficeRadarTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		16D8DD9624007F9400131B41 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				16D8DD9F24007F9400131B41 /* iBankOfficeRadarUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		16D8DD9124007F9400131B41 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 16D8DD7824007F8F00131B41 /* iBankOfficeRadar */;
+			targetProxy = 16D8DD9024007F9400131B41 /* PBXContainerItemProxy */;
+		};
+		16D8DD9C24007F9400131B41 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 16D8DD7824007F8F00131B41 /* iBankOfficeRadar */;
+			targetProxy = 16D8DD9B24007F9400131B41 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		16D8DD8724007F9300131B41 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				16D8DD8824007F9300131B41 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		16D8DDA124007F9400131B41 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		16D8DDA224007F9400131B41 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		16D8DDA424007F9400131B41 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"iBankOfficeRadar/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = iBankOfficeRadar/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = francocorp.iBankOfficeRadar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		16D8DDA524007F9400131B41 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"iBankOfficeRadar/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = iBankOfficeRadar/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = francocorp.iBankOfficeRadar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		16D8DDA724007F9400131B41 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = iBankOfficeRadarTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = francocorp.iBankOfficeRadarTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iBankOfficeRadar.app/iBankOfficeRadar";
+			};
+			name = Debug;
+		};
+		16D8DDA824007F9400131B41 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = iBankOfficeRadarTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = francocorp.iBankOfficeRadarTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iBankOfficeRadar.app/iBankOfficeRadar";
+			};
+			name = Release;
+		};
+		16D8DDAA24007F9400131B41 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = iBankOfficeRadarUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = francocorp.iBankOfficeRadarUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = iBankOfficeRadar;
+			};
+			name = Debug;
+		};
+		16D8DDAB24007F9400131B41 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = iBankOfficeRadarUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = francocorp.iBankOfficeRadarUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = iBankOfficeRadar;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		16D8DD7424007F8F00131B41 /* Build configuration list for PBXProject "iBankOfficeRadar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				16D8DDA124007F9400131B41 /* Debug */,
+				16D8DDA224007F9400131B41 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		16D8DDA324007F9400131B41 /* Build configuration list for PBXNativeTarget "iBankOfficeRadar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				16D8DDA424007F9400131B41 /* Debug */,
+				16D8DDA524007F9400131B41 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		16D8DDA624007F9400131B41 /* Build configuration list for PBXNativeTarget "iBankOfficeRadarTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				16D8DDA724007F9400131B41 /* Debug */,
+				16D8DDA824007F9400131B41 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		16D8DDA924007F9400131B41 /* Build configuration list for PBXNativeTarget "iBankOfficeRadarUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				16D8DDAA24007F9400131B41 /* Debug */,
+				16D8DDAB24007F9400131B41 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 16D8DD7124007F8F00131B41 /* Project object */;
+}
