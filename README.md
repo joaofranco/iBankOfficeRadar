@@ -1,7 +1,9 @@
 # iBankOfficeRadar
 
-Não coloquei a chave do Google Place. Agora o Google pede que adicionei um cartão de crédito. Então não vou deixar publico a chave.
+Não coloquei a chave do Google Place. Minha conta do Google Place está com meu cartão de crédito e não posso deixar pública aqui.
 Adicionar a chave em GooglePlaceDefinition.swift key
+
+![Using app](using-app.gif)
 
 ## Enunciado
 
