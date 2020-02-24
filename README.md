@@ -24,29 +24,29 @@ Enviar o link para o repositório no github até 23/02 23:59
 
 ## Arquitetura 
 
-MVVM arquitetura utilizada
+Arquitetura selecionada: MVVM
 
 - Network: Camada de acesso a rede
     - GooglePlace: Definições da api do google e chamada
 - View: Telas em SwiftUI
-- ViewModel: ViewModel da tela do Mapa e Detalhe
-- Mode: estrutura Codable do resultado da API do Google
+- ViewModel: ViewModel da tela do Mapa
+- Model: estrutura Codable do resultado da API do Google
 
-Por falta de tempo fiz uma arquitetura MVVM sem binding / data binding
-Gostaria de usar Combine (ou RX)
+Por falta de tempo fiz uma arquitetura MVVM pura. Sem data binding.
+Gostaria de usar Combine (ou RX) em todo View <-> ViewModel.
 
 ## Testes
 
 ### Unit Test
 
-- Criei apenas 1 teste unitário validando uma chamada mockada
+- Criei apenas 1 teste unitário validando uma chamada com mock.
 - Em um futuro poderia ser feito mais testes com váriações de erro (200, 400,...). Lista com resultado ou vazia
 
 ### UI Test
 
 - Criei apenas 1 teste para validar fluxop de sucesso.
 - Em um futuro poderia ser feito mais testes
-- Parte de mockar a transação ficou um pouco hardcoded mas a ideia principal de rodar usando dados mockados
+- Parte de "mockar" a transação ficou um pouco hardcoded mas a ideia principal de rodar usando dados mockados
 
 ## Google Places API
 
